@@ -39,10 +39,16 @@ Designed to provide product showcase, company information, and contact details w
 - /screenshots
   
 ### 🏠 Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/Home_Page.png)
 
-### 📱 Mobile View
-![Mobile View](screenshots/mobile.png)
+### ✨ Features Page
+![Features_Page.png](screenshots/Features_Page.png)
+
+### 🎨🖌️ Try Colors Wall Page 🌈
+![Try_Colors Page.png](https://github.com/Pratham7489/godhani-paints-website/blob/main/screenshots/Try_Colors%20Page.png)
+
+### 📞 Contact Us Page
+![Contact_Us Page.png](https://github.com/Pratham7489/godhani-paints-website/blob/main/screenshots/Contact_Us%20Page.png)
 
 ---
 
@@ -100,9 +106,9 @@ Developed by **Pratham Patel**
 ---
 
 ## 📜 License
-
 This project is licensed under the **MIT License**.  
-See the `LICENSE` file for full text.
+See the full text here: 👉 [MIT License](LICENSE)
+
 
    
 
